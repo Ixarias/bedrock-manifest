@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Example behavior pack",
+        "name": "Test Behavior Pack",
+        "uuid": "38176678-dd51-4082-b410-b6c0769ed727",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 220 ]
+    },
+    "modules": [
+        {
+            "description": "Example behavior pack",
+            "type": "data",
+            "uuid": "38e1b080-b715-431e-92b8-094f8ff3f242",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "3f14f0f7-c47d-4f24-a9f6-4d9cec7460ea",
+            "version": [0, 0, 1]
+        }
+    ]
+}
